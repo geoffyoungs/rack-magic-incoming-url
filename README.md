@@ -1,4 +1,4 @@
-Rack::MagicIncomingURL
+Rack::MagicIncomingUrl
 ----------------------
 
 Magic Incoming URL is a piece of rack middleware that redirects a URL to
@@ -36,6 +36,12 @@ Installation
 ============
 
 `gem install rack-magic-incoming-url`
+
+or add
+
+`gem 'rack-magic-incoming-url'`
+
+to your Gemfile.
 
 License (MIT)
 ==========================================
