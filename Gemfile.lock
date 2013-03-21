@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    magic-incoming-url (0.0.1)
+      rack
+
+GEM
+  specs:
+    rack (1.4.5)
+    rack-test (0.6.2)
+      rack (>= 1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  magic-incoming-url!
+  rack-test
